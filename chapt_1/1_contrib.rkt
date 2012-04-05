@@ -22,3 +22,13 @@
 
 (define (sqrt x)
     (sqrt-iter 1.0 x))
+
+(define (even? n)
+    (= (remainder n 2) 0))
+
+(define (double n)
+  (+ n n))
+
+(define (halve n)
+  (/ n 2))
+  

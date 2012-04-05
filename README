@@ -1,1 +1,11 @@
 Haven't written LISP in quite a while, so going through SICP in spare moments to grease the wheels again.
+
+I'll be skipping some of the questions (e.g., the complexity analysis questions that don't involve coding).
+I've done a lot of complexity analysis (including grad classes). SICP for me is more an opportunity to
+work on writing cleaning functional code. The complexity analysis is useful and important, but not my
+goal for this.
+
+For my own benefit, the problems I've left incomplete (with the intent to return) are:
+1.10
+1.12
+1.19
